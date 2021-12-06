@@ -1,1 +1,1 @@
-# Heirarchical-CLustering---Crime-Dataset
+# Hierarchical-CLustering---Crime-Dataset
